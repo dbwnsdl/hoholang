@@ -156,6 +156,6 @@ def comfile(t, enabled = True):
                 comfile(t, False)
                 enabled = False
         elif i == "고":
-            subprocess.call(["C:\\Users\\kyuho\\OneDrive\\문서\\coding\\python\\c\\script.exe"])
+            subprocess.call(["script.exe"])
         else:
             SystemError("너무 차가운 코드네요!")
