@@ -4,8 +4,8 @@
 .hoho 파일에 코드를 작성하고 그걸 실행하려면 src안에있는 file.py에 들어가 file변수를 작성한 코드에 경로로 바꾸고 해야합니다.
 
 # 구현체
-+ [파이썬에서 호호랭을 사용할 수 있습니다.](https://github.com/dbwnsdl/hoholang/blob/main/src/hoho.py)
-+ [자바 스크립트로도 호호랭을 사용 할 수  있습니다.](https://github.com/dbwnsdl/hoholang/blob/main/src/index.js)
++ [파이썬](https://github.com/dbwnsdl/hoholang/blob/main/src/hoho.py)
++ [자바 스크립트](https://github.com/dbwnsdl/hoholang/blob/main/src/index.js)
 
 # 문법
 comfile()
