@@ -6,6 +6,7 @@
 # 구현체
 + [파이썬](https://github.com/dbwnsdl/hoholang/blob/main/src/hoho.py)
 + [자바 스크립트](https://github.com/dbwnsdl/hoholang/blob/main/src/index.js)
++ [루아](https://github.com/dbwnsdl/hoholang/blob/main/src/script.lua)
 
 # 문법
 comfile()
