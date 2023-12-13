@@ -20,155 +20,155 @@ function comfile(text, enabled)
     end
 
     for i, v in ipairs(result) do
-        if i == "ㅁ" then
+        if v == "ㅁ" then
             print("a")
-        elseif i == 'ㅠ' then
+        elseif v == 'ㅠ' then
             print("b")
-        elseif i == 'ㅊ' then
+        elseif v == 'ㅊ' then
             print("c")
-        elseif i == 'ㅇ' then
+        elseif v == 'ㅇ' then
             print("d")
-        elseif i == 'ㄷ' then
+        elseif v == 'ㄷ' then
             print("e")
-        elseif i == 'ㄹ' then
+        elseif v == 'ㄹ' then
             print("f")
-        elseif i == 'ㅎ' then
+        elseif v == 'ㅎ' then
             print("g")
-        elseif i == 'ㅗ' then
+        elseif v == 'ㅗ' then
             print("h")
-        elseif i == 'ㅑ' then
+        elseif v == 'ㅑ' then
             print("i")
-        elseif i == 'ㅓ' then
+        elseif v == 'ㅓ' then
             print("j")
-        elseif i == 'ㅏ' then
+        elseif v == 'ㅏ' then
             print("k")
-        elseif i == 'ㅣ' then
+        elseif v == 'ㅣ' then
             print("l")
-        elseif i == 'ㅡ' then
+        elseif v == 'ㅡ' then
             print("m")
-        elseif i == 'ㅜ' then
+        elseif v == 'ㅜ' then
             print("n")
-        elseif i == 'ㅐ' then
+        elseif v == 'ㅐ' then
             print("o")
-        elseif i == 'ㅔ' then
+        elseif v == 'ㅔ' then
             print("p")
-        elseif i == 'ㅂ' then
+        elseif v == 'ㅂ' then
             print("q")
-        elseif i == 'ㄱ' then
+        elseif v == 'ㄱ' then
             print("r")
-        elseif i == 'ㄴ' then
+        elseif v == 'ㄴ' then
             print("s")
-        elseif i=='ㅅ' then
+        elseif v =='ㅅ' then
             print("t")
-        elseif i=='ㅕ' then
+        elseif v =='ㅕ' then
             print("u")
-        elseif i == 'ㅍ' then
+        elseif v == 'ㅍ' then
             print("v")
-        elseif i=='ㅈ' then
+        elseif v =='ㅈ' then
             print("w")
-        elseif i == 'ㅌ' then
+        elseif v == 'ㅌ' then
             print("x")
-        elseif i == 'ㅛ' then
+        elseif v == 'ㅛ' then
             print("y")
-        elseif i == 'ㅋ' then
+        elseif v == 'ㅋ' then
             print("z")
-        elseif i == "후ㅁ" then
+        elseif v == "후ㅁ" then
             print("A")
-        elseif i == '후ㅠ' then
+        elseif v == '후ㅠ' then
             print("B")
-        elseif i == '후ㅊ' then
+        elseif v == '후ㅊ' then
             print("C")
-        elseif i == '후ㅇ' then
+        elseif v == '후ㅇ' then
             print("D")
-        elseif i == '후ㄷ' then
+        elseif v == '후ㄷ' then
             print("E")
-        elseif i == '후ㄹ' then
+        elseif v == '후ㄹ' then
             print("F")
-        elseif i == '후ㅎ' then
+        elseif v == '후ㅎ' then
             print("G")
-        elseif i == '후ㅗ' then
+        elseif v == '후ㅗ' then
             print("H")
-        elseif i == '후ㅑ' then
+        elseif v == '후ㅑ' then
             print("I")
-        elseif i == '후ㅓ' then
+        elseif v == '후ㅓ' then
             print("J")
-        elseif i == '후ㅏ' then
+        elseif v == '후ㅏ' then
             print("K")
-        elseif i == '후ㅣ' then
+        elseif v == '후ㅣ' then
             print("L")
-        elseif i == '후ㅡ' then
+        elseif v == '후ㅡ' then
             print("M")
-        elseif i == '후ㅜ' then
+        elseif v == '후ㅜ' then
             print("N")
-        elseif i == '후ㅐ' then
+        elseif v == '후ㅐ' then
             print("O")
-        elseif i == '후ㅔ' then
+        elseif v == '후ㅔ' then
             print("P")
-        elseif i == '후ㅂ' then
+        elseif v == '후ㅂ' then
             print("Q")
-        elseif i == '후ㄱ' then
+        elseif v == '후ㄱ' then
             print("R")
-        elseif i == '후ㄴ' then
+        elseif v == '후ㄴ' then
             print("S")
-        elseif i=='후ㅅ' then
+        elseif v =='후ㅅ' then
             print("T")
-        elseif i=='후ㅕ' then
+        elseif v =='후ㅕ' then
             print("U")
-        elseif i == '후ㅍ' then
+        elseif v == '후ㅍ' then
             print("V")
-        elseif i=='후ㅈ' then
+        elseif v =='후ㅈ' then
             print("W")
-        elseif i == '후ㅌ' then
+        elseif v == '후ㅌ' then
             print("X")
-        elseif i == '후ㅛ' then
+        elseif v == '후ㅛ' then
             print("Y")
-        elseif i == '후ㅋ' then
+        elseif v == '후ㅋ' then
             print("Z")
-        elseif i == '지1' then
+        elseif v == '지1' then
             print("!")
-        elseif i == '지2' then
+        elseif v == '지2' then
             print("@")
-        elseif i == '지3' then
+        elseif v == '지3' then
             print("#")
-        elseif i == '지4' then
+        elseif v == '지4' then
             print("$")
-        elseif i == '지5' then
+        elseif v == '지5' then
             print("%")
-        elseif i == '지6' then
+        elseif v == '지6' then
             print("^")
-        elseif i == '지7' then
+        elseif v == '지7' then
             print("&")
-        elseif i == '지8' then
+        elseif v == '지8' then
             print("*")
-        elseif i == '지9' then
+        elseif v == '지9' then
             print("(")
-        elseif i == '지0' then
+        elseif v == '지0' then
             print(")")
-        elseif i == "히" then
+        elseif v == "히" then
             print(" ")
-        elseif i == "1" then
+        elseif v == "1" then
             print(1)
-        elseif i == "2" then
+        elseif v == "2" then
             print(2)
-        elseif i == "3" then
+        elseif v == "3" then
             print(3)
-        elseif i == "4" then
+        elseif v == "4" then
             print(4)
-        elseif i == "5" then
+        elseif v == "5" then
             print(5)
-        elseif i == "6" then
+        elseif v == "6" then
             print(6)
-        elseif i == "7" then
+        elseif v == "7" then
             print(7)
-        elseif i == "8" then
+        elseif v == "8" then
             print(8)
-        elseif i == "9" then
+        elseif v == "9" then
             print(9)
-        elseif i == "0" then
+        elseif v == "0" then
             print(0)
-        elseif i == "고구마" then
+        elseif v == "고구마" then
             return
-        elseif i == '굽굽' then
+        elseif v == '굽굽' then
             if enabled == true then
                 comfile(text, false)
             end
