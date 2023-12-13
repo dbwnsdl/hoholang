@@ -14,7 +14,7 @@ function split(str, delimiter)
 end
 
 function comfile(text, enabled)
-    local result = split("", " ")
+    local result = split(text, " ")
     if enabled == nil then
         enabled = true
     end
