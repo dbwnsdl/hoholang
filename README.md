@@ -3,10 +3,15 @@
 확장자 명은 hoho입니다.<br>
 .hoho 파일에 코드를 작성하고 그걸 실행하려면 src안에있는 file.py에 들어가 file변수를 작성한 코드에 경로로 바꾸고 해야합니다.
 
+# 실행 사이트
+호호랭을 실행해볼 수 있는 웹사이트가 있습니다.
++ [호호랭 실행기](https://hoholang.netlify.app/?code=)
+
 # 구현체
 + [파이썬](https://github.com/dbwnsdl/hoholang/blob/main/src/hoho.py)
 + [자바 스크립트](https://github.com/dbwnsdl/hoholang/blob/main/src/index.js)
 + [루아](https://github.com/dbwnsdl/hoholang/blob/main/src/script.lua)
++ [호호랭 실행기](https://hoholang.netlify.app/?code=)
 
 # 문법
 comfile()
