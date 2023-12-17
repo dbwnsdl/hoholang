@@ -1,7 +1,7 @@
 # 호호랭
 호호랭에 호호는 뜨거울때 부는 "호호"에 호호입니다.<br>
 확장자 명은 hoho입니다.<br>
-.hoho 파일에 코드를 작성하고 그걸 실행하려면 src안에있는 file.py에 들어가 file변수를 작성한 코드에 경로로 바꾸고 해야합니다.
+현재 버전은 v1.0
 
 # 실행 사이트
 호호랭을 실행해볼 수 있는 웹사이트가 있습니다.
@@ -9,7 +9,8 @@
 
 # html 라이브러리 
 https://joyful-kashata-e539d0.netlify.app/index.js
-이 링크는 html에서 script 태그 속성중에 src안에 이 링크를 넣으면 comfile을 사용할수 있음
+이 링크는 html에서 script 태그 속성중에 src안에 이 링크를 넣으면 comfile을 사용할수 있음<br>
+물론 v1.0입니다
 
 # 구현체
 + [파이썬](https://github.com/dbwnsdl/hoholang/blob/main/src/hoho.py)
