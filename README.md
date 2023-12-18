@@ -17,6 +17,7 @@ https://joyful-kashata-e539d0.netlify.app/index.js
 + [자바 스크립트](https://github.com/dbwnsdl/hoholang/blob/main/src/index.js)
 + [루아](https://github.com/dbwnsdl/hoholang/blob/main/src/script.lua)
 + [호호랭 실행기](https://hoholang.netlify.app/?code=)
++ [R](https://github.com/dbwnsdl/hoholang/blob/main/src/hoho.r)
 
 # 문법
 comfile()
